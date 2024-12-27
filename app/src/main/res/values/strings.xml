@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_done_sunday">DoneSunday</string>
+    <string name="title_activity_second_page">secondPage</string>
+    <string name="title_activity_easy_page">EasyPage</string>
+    <string name="title_activity_normal_page">NormalPage</string>
+    <string name="title_activity_hard_page">HardPage</string>
+    <string name="title_activity_master_page">MasterPage</string>
+    <string name="title_activity_stats_page">StatsPage</string>
+</resources>
